@@ -20,6 +20,9 @@
   "homepage": "https://github.com/kevinprotoss/seven-apm-server#readme",
   "dependencies": {
     "koa": "^2.5.2",
+    "koa-compress": "^3.0.0",
+    "koa-conditional-get": "^2.0.0",
+    "koa-etag": "^3.0.0",
     "koa-static": "^5.0.0"
   }
 }
